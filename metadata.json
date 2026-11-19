@@ -1,0 +1,6 @@
+{
+  "name": "WebCraft Studio - Creador de Páginas Web",
+  "description": "Plataforma interactiva para diseñar, personalizar y previsualizar sitios web profesionales en tiempo real con plantillas listas para producción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
